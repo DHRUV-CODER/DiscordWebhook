@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DiscordWebhook/static/css/main.38869980.css",
-    "main.js": "/DiscordWebhook/static/js/main.71578f7b.js",
+    "main.js": "/DiscordWebhook/static/js/main.8b451852.js",
     "index.html": "/DiscordWebhook/index.html",
     "main.38869980.css.map": "/DiscordWebhook/static/css/main.38869980.css.map",
-    "main.71578f7b.js.map": "/DiscordWebhook/static/js/main.71578f7b.js.map"
+    "main.8b451852.js.map": "/DiscordWebhook/static/js/main.8b451852.js.map"
   },
   "entrypoints": [
     "static/css/main.38869980.css",
-    "static/js/main.71578f7b.js"
+    "static/js/main.8b451852.js"
   ]
 }
