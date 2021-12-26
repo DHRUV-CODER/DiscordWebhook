@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DiscordWebhook/static/css/main.38869980.css",
+    "main.js": "/DiscordWebhook/static/js/main.71578f7b.js",
+    "index.html": "/DiscordWebhook/index.html",
+    "main.38869980.css.map": "/DiscordWebhook/static/css/main.38869980.css.map",
+    "main.71578f7b.js.map": "/DiscordWebhook/static/js/main.71578f7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38869980.css",
+    "static/js/main.71578f7b.js"
+  ]
+}
