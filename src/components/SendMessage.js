@@ -150,8 +150,6 @@ const SendMessage = () => {
       return true;
     } else if (Url.length !== 0) {
       if (
-        ValidProfileUrl === "❌" ||
-        ValidProfileUrl === "⁉" ||
         content.length > 2000 ||
         username.length > 80 ||
         !content.length
@@ -162,6 +160,14 @@ const SendMessage = () => {
       return false;
     }
   };
+
+  const handleTTS = () => {
+    if (Tts === false) {
+      setTts(true)
+    }else {
+      setTts(false)
+    }
+  }
 
   return (
     <>
@@ -232,7 +238,7 @@ const SendMessage = () => {
             type="checkbox"
             value=""
             id="flexCheckChecked"
-            onClick={(e) => setTts(true)}
+            onClick={handleTTS}
             disabled={
               ValidUrl === "❌" ||
               ValidUrl === "⁉" ||
