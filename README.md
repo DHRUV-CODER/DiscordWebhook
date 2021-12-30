@@ -1,5 +1,7 @@
 # [Live Site](https://dhruv-coder.github.io/DiscordWebhook/#/)
 
+![Alt](https://repobeats.axiom.co/api/embed/e3d3c7826496e5b774df24bda4a2322ed272a718.svg "Repobeats analytics image")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
