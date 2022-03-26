@@ -1,4 +1,7 @@
-# [Live Site](https://dhruv-coder.github.io/DiscordWebhook/#/)
+# [dscwebhook.ml](https://dscwebhook.ml/#/)
+# [Github.io](https://dhruv-coder.github.io/DiscordWebhook/#/)
+# [Netlify](https://discordwebhooks.netlify.app/#/)
+
 
 ![Alt](https://repobeats.axiom.co/api/embed/e3d3c7826496e5b774df24bda4a2322ed272a718.svg "Repobeats analytics image")
 
